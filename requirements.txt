@@ -7,8 +7,9 @@
  matplotlib
  io
 json
-datetime  datetime, timedelta
+datetime  
  random
- matplotlib.backends.backend_agg  FigureCanvasAgg as FigureCanvas
-difflib  get_close_matches
+ matplotlib.backends.backend_agg 
+FigureCanvasAgg 
+difflib 
  time
